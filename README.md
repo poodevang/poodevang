@@ -23,8 +23,8 @@
 
 ---
 
-<p align="strech" >
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250" alt="Girl Laptop" />
+<p align="center" >
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="Girl Laptop" />
 </p>
 
 <p align="center"><b>Thanks for visiting! Let's connect and build something awesome together 💙🚀</b></p>
