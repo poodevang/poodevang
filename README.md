@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React Native Developer from Bangalore, India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EsLq1JjLdK25fWvZc8/giphy.gif" width="250" alt="Girl Coding" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd6b25lNXNiMDV2YmFhYmI1bWo3aGNvbjBraHVmYzRyanY0cHNxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </p>
 
 ---
