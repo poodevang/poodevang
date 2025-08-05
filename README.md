@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Working" />
 
 - 🌱 I’m currently learning **Advanced React Native**, **TypeScript**, and **Mobile Performance Optimization**  
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="150" alt="Learning" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Flearning-gifs&psig=AOvVaw1q-e45ohxGw1I0Fn75PUqf&ust=1754468581549000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCV3_me844DFQAAAAAdAAAAABAE" width="150" alt="Learning" />
 
 - 🧠 Exploring **Mobile Architecture**, **CI/CD**, and **Firebase**  
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150" alt="Thinking" />
