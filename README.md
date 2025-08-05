@@ -6,5 +6,4 @@
 - 💻 I’m currently working at **Utilitarian Labs Pvt. Ltd.** as a **React Native Developer**  
 - 🌱 I’m currently learning **Advanced React Native**, **TypeScript**, and **Mobile Performance Optimization**
 - 🧠 Exploring **Mobile Architecture**, **CI/CD**, and **Firebase**
-- 💼 Portfolio: [poojadev.vercel.app](https://your-portfolio-link.com)
 - 📫 How to reach me: **poojadevang132@gmail.com**
