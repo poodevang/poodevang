@@ -27,14 +27,6 @@
 
 ---
 
-### 🧩 Projects I'm Proud Of
-
-- 📱 **MOC & WA Management System** — MERN stack app for workflow tracking
-- 📚 **Library Management System** — Java + JDBC-based desktop app
-- 📲 **Personal Mobile UI Experiments** — Just for fun and learning!
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
